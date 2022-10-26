@@ -115,7 +115,8 @@ case '9':
 ```
 
 ## Блок-схема
-![Диограмма](https://user-images.githubusercontent.com/106704479/197793251-ac8f86eb-337f-4ac1-922e-aecbdf4dac48.png)
+![Диограмма](https://user-images.githubusercontent.com/115896672/198038826-c55cfdd6-59ee-49bd-8377-c4a6727328c6.png)
+)
 
 
 
